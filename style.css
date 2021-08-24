@@ -1,0 +1,62 @@
+
+
+
+
+
+header{
+    background-color: #77ACF1;
+    text-align: center;
+    height: 60px;
+    margin: 30px;
+}
+#h1{
+position: relative;
+top: 25px;
+color: rgb(255, 255, 255);
+font-size: x-large;
+}
+
+  
+  legend {
+   
+    color: gray;
+    padding: 5px 10px;
+
+    border-style: dotted;
+    border: gray;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  main{
+      display: grid;
+      grid-template-columns: auto auto;
+  }
+  fieldset {
+    display: block;
+    margin-left: 100px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border:1px dotted gray;
+  }
+
+  footer{
+
+    text-align: center;
+    background-color: #77ACF1;
+    height: 50px;
+   color: honeydew;
+   margin: 30px;
+
+  }
+  #submit{
+      background-color: #71c7ec;
+  }
+
+#reset{
+    background-color: #a10909;
+}
